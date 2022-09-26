@@ -1,4 +1,5 @@
 ### Hi there 👋
+*My name is Carol and I'm a high school teacher*
 
 <!--
 **cluce47/cluce47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
